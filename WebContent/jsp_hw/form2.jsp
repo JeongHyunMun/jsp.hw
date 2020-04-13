@@ -24,7 +24,6 @@ button { width: 80px; }
 %>
 
 <body>
-
 	<div>
 	<form action = "form2.jsp" method="get">
 		<select name="cmd">
