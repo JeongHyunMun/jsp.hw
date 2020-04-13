@@ -13,7 +13,6 @@ button { width: 80px; }
 </head>
 <%
 	String cmd = request.getParameter("cmd");
-
 	if ("one".equals(cmd))
 		cmd = "one";
 	else if ("two".equals(cmd))
