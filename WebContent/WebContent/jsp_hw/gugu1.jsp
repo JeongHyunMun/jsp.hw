@@ -2,7 +2,7 @@
     pageEncoding="EUC-KR"%>
 <!DOCTYPE html>
 <html> 
-<head> 
+<head>  
 <meta charset="EUC-KR">
 <style>
 	table { border-collapse: collapse; }

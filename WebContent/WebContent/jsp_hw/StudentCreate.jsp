@@ -2,7 +2,7 @@
 <%@ page import="lecture1.form02.*" %> 
 <% 
 String id; 
-String studentNumber;  
+String studentNumber;   
 String name; 
 String departmentId;
 String year;
