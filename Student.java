@@ -1,6 +1,6 @@
 package lecture1.form02;
 
-public class Student { // 
+public class Student {
 
     String id;
     String studentNumber;

@@ -1,10 +1,10 @@
 <%@ page language="java" contentType="text/html; charset=UTF-8" pageEncoding="UTF-8"%>
-<%@ page import="lecture1.form02.*" %>  
+<%@ page import="lecture1.form02.*" %>
 <% 
 Student student = (Student)session.getAttribute("student");
 %>
 <!DOCTYPE html> 
-<html>  
+<html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <style>

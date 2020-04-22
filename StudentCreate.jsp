@@ -1,10 +1,10 @@
 <%@ page language="java" contentType="text/html; charset=UTF-8" pageEncoding="UTF-8"%>
-<%@ page import="lecture1.form02.*" %> 
-<% 
-String id; 
-String studentNumber;   
+<%@ page import="lecture1.form02.*" %>
+<%
+String id;
+String studentNumber;  
 String name; 
-String departmentId;
+String departmentId; 
 String year;
 int department = 0;
 String 에러메시지 = null;
