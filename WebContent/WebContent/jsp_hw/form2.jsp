@@ -2,7 +2,7 @@
 	pageEncoding="UTF-8"%>
 <!DOCTYPE html> 
 <html> 
-<head>
+<head> 
 <meta charset="UTF-8">
 <style type="text/css">
 div {	margin: 10px auto;}
